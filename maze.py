@@ -5,7 +5,7 @@ import random
 POS_X = 0
 POS_Y = 1
 
-NUM_OF_MAP_OBJECTS = 25
+NUM_OF_MAP_OBJECTS = 15
 
 #Create obstacle map
 obstacle_definition = """\
